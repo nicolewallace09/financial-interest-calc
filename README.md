@@ -19,4 +19,4 @@ Please view deployed application on [Git Hub Pages](https://nicolewallace09.gith
 ## Questions
 If you have any questions about this project, please contact me directly at nicole.elisaw@gmail.com. 
 
-# interest-calculator
+
