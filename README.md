@@ -13,7 +13,7 @@ To run application, install all dependencies by running `npm install` in the ter
 
 ## Usage 
 This application will allow users to enter a principal, rate of annual interest, and number of years to calculate a total of principal plus interest.<br>
-Please view deployed application on [Git Hub Pages](https://nicolewallace09.github.io/nicolewallace/)<br>
+
 <img src='public/images/calculator.png'>
 
 ## Questions
