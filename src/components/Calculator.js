@@ -4,10 +4,10 @@ import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form';
 
 const Calculator = () => {
-    const [principal, setPrincipal] = useState();
-    const [years, setYears] = useState();
-    const [interest, setInterest] = useState();
-    const [result, setResult] = useState();
+    const [principal, setPrincipal] = useState('');
+    const [years, setYears] = useState('');
+    const [interest, setInterest] = useState('');
+    const [result, setResult] = useState('');
 
     const calculateInterest = () => {
         const interestRate = interest / 100
