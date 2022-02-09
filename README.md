@@ -17,4 +17,4 @@ Please view deployed application [Heroku](https://nw-interest-calc.herokuapp.com
 <img src='public/images/calculator.png'>
 
 ## Questions
-If you have any questions about this project, please contact me directly at nicole.elisaw@gmail.com. # finanical-interest-calc
+If you have any questions about this project, please contact me directly at nicole.elisaw@gmail.com. 
